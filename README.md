@@ -1,5 +1,6 @@
 # Code for Toward Stronger Textual Attack Detectors
 
+TODO : update before public release of code +scripts
 ## Requirements
 * [PyTorch](http://pytorch.org/)
 * [Transformers](https://github.com/huggingface/transformers)
